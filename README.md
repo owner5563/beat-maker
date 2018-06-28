@@ -29,7 +29,7 @@
 ## Links
 
 The link to the repository  
-*https://github.com/owner5563/beat-maker.git  
+*https://github.com/owner5563/beat-maker 
 The link to the live site  
 *https://kevinahn7.github.io/beat-maker/  
 
